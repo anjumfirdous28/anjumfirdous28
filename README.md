@@ -13,7 +13,7 @@
 - 💻 Passionate about Python, AI/ML, and Web Development
 - 🌱 Currently learning **Advanced Python, Django, Machine Learning, and NLP**
 - 🚀 Interested in solving real-world problems using technology
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: firdous.aiml.rymec@gmail.com**
 - ⚡ Fun Fact: I enjoy building practical projects and continuously improving my coding skills.
 
 ---
@@ -23,7 +23,6 @@
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-70%25-red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-75%25-blue?style=for-the-badge&logo=c)
 
 ### Web Development
@@ -31,12 +30,11 @@
 ![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-purple?style=for-the-badge&logo=bootstrap)
+
 
 ### Frameworks & Libraries
 
 ![Django](https://img.shields.io/badge/Django-85%25-green?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-70%25-black?style=for-the-badge&logo=flask)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-80%25-orange?style=for-the-badge&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-85%25-purple?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-80%25-blue?style=for-the-badge&logo=numpy)
@@ -44,7 +42,6 @@
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-85%25-lightblue?style=for-the-badge&logo=sqlite)
 
 ### Tools
 
@@ -82,9 +79,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjumfirdous28E&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumfirdous28&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -94,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=anjumfirdous28&theme=tokyonight"/>
 
 </p>
 
@@ -108,7 +105,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:firdous.aiml.rymec@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
